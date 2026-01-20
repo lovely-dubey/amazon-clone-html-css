@@ -19,7 +19,7 @@ This is a frontend clone of the Amazon homepage built using only **HTML** and **
 ## 🚀 Live Demo
 
 👉 [View Project Live](https://github.com/lovely-dubey/amazon-clone-html-css)  
-file:///C:/Users/lovel/OneDrive/Desktop/amazon-clone-html-css/index.html
+
 
 
 ## 📁 Folder Structure
