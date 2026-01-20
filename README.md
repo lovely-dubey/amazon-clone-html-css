@@ -8,14 +8,14 @@ This is a frontend clone of the Amazon homepage built using only **HTML** and **
 - 🔹 Product Sections with Images and Captions
 - 🔹 Footer with Multiple Link Sections
 - 🔹 Clean UI inspired by Amazon’s layout
-- 🔹 Mobile Responsiveness (Optional, if you added)
+  
 
 ## 🛠️ Built With
 
 - HTML5  
 - CSS3  
-- Flexbox & Grid (if you used them)  
-- Font Awesome (if you used any icons)  
+- Flexbox & Grid 
+- Font Awesome   
 ## 🚀 Live Demo
 
 👉 [View Project Live](https://github.com/lovely-dubey/amazon-clone-html-css)  
